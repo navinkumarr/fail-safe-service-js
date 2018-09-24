@@ -1,4 +1,4 @@
-# fail-safe-queue-js
+# fail-safe-service-js
 A javascript fail safe service library.
 
 When your service goes down this library stores the data in an offline queue and on re connection 
